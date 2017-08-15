@@ -8,12 +8,12 @@ permalink: /about
 
 ### 关于我
 
-老杜还在，Metaldudu。关注：
+老杜还在，Metaldudu。关注： 极简生活 / 学习成长 / 跑步 / 读写
 
-* 极简生活
-* 学习成长
-* 跑步
-* 阅读
+### 内容
+
+- blog：[mrdu.me](http://mrdu.me/)
+- 读写卡片： [card.mrdu.me](http://card.mrdu.me/)
 
 ### 链接
 
