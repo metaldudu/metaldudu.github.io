@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <span class="post-date">{{ page.date | date_to_string }}</span>
+
+  <!-- only display tag "infrastructure" if there are tags -->
+  {% if page.tags != empty %}
+   <div class="tag-icon-image">
+      <!-- iterate through tags in the current page using page.tags variable -->
+      {%  for tag in page.tags  %}
+        <div class="tag-link">
+         <!-- link to appropriate tag anchor in tags.html -->
+         tags: <a href="/tags#{{ tag }}">{{ tag }}</a>
+        </div>
+      {%  endfor %}
+   </div>
+  {%  endif  %}
+
+  {{ content }}
+</div>

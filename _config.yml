@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         kramdown
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            老杜网志
+tagline:          '小步徐行 终有所成'
+description:      ''
+url:              http://mrdu.me/
+baseurl:          ''
+
+author:
+  name:           '老杜还在'
+  url:            ''
+
+paginate:         4
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/metaldudu
