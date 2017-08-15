@@ -10,7 +10,7 @@ title:            老杜网志
 tagline:          '小步徐行 终有所成'
 description:      ''
 url:              http://mrdu.me/
-baseurl:          /
+baseurl:          '/'
 
 author:
   name:           'metaldudu'
@@ -19,7 +19,4 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
 
-github:
-  repo:           https://github.com/metaldudu
