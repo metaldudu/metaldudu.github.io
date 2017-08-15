@@ -2,7 +2,7 @@
 layout: post
 title: "极简生活杂谈"
 description: ""
-category: 极简生活
+category: minimalism
 tags: [极简生活]
 ---
 

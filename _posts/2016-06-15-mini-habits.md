@@ -2,7 +2,7 @@
 layout: post
 title: "哪些小习惯可以改变生活？"
 description: ""
-category: 自我管理
+category: lifehack
 tags: [habits, life]
 ---
 

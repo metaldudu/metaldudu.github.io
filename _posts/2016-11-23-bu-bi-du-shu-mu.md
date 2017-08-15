@@ -2,7 +2,7 @@
 layout: post
 title: "读《不必读书目》"
 description: ""
-category: 阅读
+category: readingnotes
 tags: [书评]
 ---
 

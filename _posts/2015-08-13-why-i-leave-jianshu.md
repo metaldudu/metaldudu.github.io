@@ -2,7 +2,7 @@
 layout: post
 title: "我为什么离开简书"
 description: ""
-category: 杂记
+category: log
 tags: [写作]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "2013一些想法"
 description: ""
-category: 思考
+category: thinking
 tags: []
 ---
 

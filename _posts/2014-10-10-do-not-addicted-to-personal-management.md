@@ -2,7 +2,7 @@
 layout: post
 title: "别沉溺于学习个人管理"
 description: ""
-category: 个人提升
+category: lifehack
 tags: [个人提升]
 ---
 

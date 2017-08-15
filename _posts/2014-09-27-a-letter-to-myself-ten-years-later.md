@@ -2,7 +2,7 @@
 layout: post
 title: "写给十年后的自己"
 description: ""
-category: 杂记
+category: log
 tags: [信]
 ---
 

@@ -1,9 +1,9 @@
----
+﻿---
 layout: post
 title: "此人死后"
 description: ""
-category: 翻译
-tags: []
+category: translation
+tags: [小说]
 ---
 
 > 劳伦斯·布洛克短篇小说《此人死后》

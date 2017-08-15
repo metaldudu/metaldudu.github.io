@@ -2,7 +2,7 @@
 layout: post
 title: "我理解的姿势跑法"
 description: ""
-category: 阅读
+category: readingnotes
 tags: [书评,跑步]
 ---
 

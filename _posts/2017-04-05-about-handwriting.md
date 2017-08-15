@@ -2,7 +2,7 @@
 layout: post
 title: "写字的事"
 description: ""
-category: 杂记
+category: log
 tags: [爱好,自我管理]
 ---
 

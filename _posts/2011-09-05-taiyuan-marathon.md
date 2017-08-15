@@ -1,8 +1,8 @@
----
+﻿---
 layout: post
 title: "515之一秒——太马2011记"
 description: ""
-category: 跑步
+category: running
 tags: [马拉松,杂记]
 ---
 

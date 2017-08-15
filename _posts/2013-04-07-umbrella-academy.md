@@ -2,7 +2,7 @@
 layout: post
 title: "漫画：伞学院"
 description: ""
-category: 翻译
+category: translation
 tags: [漫画]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "2015秦皇岛马拉松小记"
 description: ""
-category: 跑步
+category: running
 tags: [马拉松]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "《夜航船》三则"
 description: ""
-category: 随笔
+category: log
 tags: []
 ---
 

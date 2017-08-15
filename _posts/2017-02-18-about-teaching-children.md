@@ -2,7 +2,7 @@
 layout: post
 title: "从训孩子说起"
 description: ""
-category: 杂记
+category: log
 tags:
 ---
 

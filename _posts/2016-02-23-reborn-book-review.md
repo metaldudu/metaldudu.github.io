@@ -2,7 +2,7 @@
 layout: post
 title: "李笑来《新生：七年就是一辈子》笔记"
 description: ""
-category: 阅读
+category: readingnotes
 tags: [书评]
 ---
 

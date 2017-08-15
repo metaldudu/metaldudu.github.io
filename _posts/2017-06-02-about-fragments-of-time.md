@@ -2,7 +2,7 @@
 layout: post
 title: "如何应对信息碎片化"
 description: ""
-category: 自我管理
+category: lifehack
 tags: [自我管理]
 ---
 

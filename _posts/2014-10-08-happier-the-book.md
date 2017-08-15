@@ -2,7 +2,7 @@
 layout: post
 title: "如何更幸福？读《幸福的方法》"
 description: ""
-category: 书评
+category: readingnotes
 tags: [心理学,阅读]
 ---
 

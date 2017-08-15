@@ -1,8 +1,8 @@
----
+﻿---
 layout: post
 title: "怎么让一天有36个小时（译）"
 description: ""
-category: 翻译
+category: translation
 tags: [个人提升]
 ---
 

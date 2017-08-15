@@ -2,7 +2,7 @@
 layout: post
 title: "有关持续学习"
 description: ""
-category: 个人管理
+category: lifehack
 tags: [学习,演讲]
 ---
 

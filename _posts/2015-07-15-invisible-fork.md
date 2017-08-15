@@ -2,7 +2,7 @@
 layout: post
 title: "看不见的叉子——《舌尖上的历史》"
 description: ""
-category: 阅读
+category: readingnotes
 tags: [书评,美食]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "监狱里有什么杀时间的方式？"
 description: ""
-category: 翻译
+category: lifehack
 tags: [Quora,时间]
 ---
 

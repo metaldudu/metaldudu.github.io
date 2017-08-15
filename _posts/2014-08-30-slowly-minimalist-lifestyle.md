@@ -2,7 +2,7 @@
 layout: post
 title: "难以速成的极简生活"
 description: ""
-category: 极简
+category: minimalism
 tags: [书评,极简生活]
 ---
 

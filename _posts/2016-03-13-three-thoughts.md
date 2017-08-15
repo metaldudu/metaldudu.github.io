@@ -2,7 +2,7 @@
 layout: post
 title: "三个想法"
 description: ""
-category: 思考
+category: thinking
 tags: [正念]
 ---
 

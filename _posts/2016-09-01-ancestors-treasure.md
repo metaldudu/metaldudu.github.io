@@ -2,7 +2,7 @@
 layout: post
 title: "先辈的宝物"
 description: ""
-category: 小说
+category: writing
 tags: [科幻,写作]
 ---
 

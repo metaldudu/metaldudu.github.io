@@ -2,7 +2,7 @@
 layout: post
 title: "有必要看时间管理的书吗？"
 description: ""
-category: 自我管理
+category: lifehack
 tags: [时间管理]
 ---
 

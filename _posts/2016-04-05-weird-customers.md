@@ -2,7 +2,7 @@
 layout: post
 title: "书客怪话"
 description: ""
-category: 阅读
+category: reading
 tags: [book]
 ---
 

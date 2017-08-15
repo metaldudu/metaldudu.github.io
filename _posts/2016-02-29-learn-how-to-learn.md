@@ -2,7 +2,7 @@
 layout: post
 title: "Learning how to learn 笔记整理"
 description: ""
-category: 笔记
+category: learning
 tags: [学习,MOOC]
 ---
 

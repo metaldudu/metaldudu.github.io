@@ -2,7 +2,7 @@
 layout: post
 title: "战拖七种武器——读《1分钟能做什么》"
 description: ""
-category: 书评
+category: readingnotes
 tags: [时间管理]
 ---
 

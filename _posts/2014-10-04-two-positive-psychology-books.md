@@ -2,7 +2,7 @@
 layout: post
 title: "发现乐观的价值"
 description: ""
-category: 书评
+category: readingnotes
 tags: [心理学,阅读]
 ---
 

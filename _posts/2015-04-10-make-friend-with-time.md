@@ -2,7 +2,7 @@
 layout: post
 title: "重读《把时间当作朋友》"
 description: ""
-category: 书评
+category: readingnotes
 tags: [书评,时间管理]
 ---
 

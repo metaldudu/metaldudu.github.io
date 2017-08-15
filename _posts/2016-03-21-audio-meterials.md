@@ -2,7 +2,7 @@
 layout: post
 title: "最近在听的东西"
 description: ""
-category: 杂记
+category: log
 tags: [podcast]
 ---
 

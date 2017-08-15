@@ -2,7 +2,7 @@
 layout: post
 title: "那些年轻人最常犯的错"
 description: ""
-category: 翻译
+category: lifehack
 tags: [个人提升,Quora]
 ---
 
