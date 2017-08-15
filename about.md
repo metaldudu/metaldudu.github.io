@@ -1,19 +1,19 @@
-ï»¿---
+---
+layout: page
 title: About
 permalink: /about
-layout: page
 ---
 
 <img src="/image/logo.jpg" />
 
-<h2>å…³äºæˆ‘</h2>
+<h2>¹ØÓÚÎÒ</h2>
 
-<p>è€æœè¿˜åœ¨ï¼ŒMetalduduã€‚</p>
+<p>ÀÏ¶Å»¹ÔÚ£¬Metaldudu¡£</p>
 
 
 <ul>
-<li>[è±†ç“£](http://www.douban.com/people/metaldudu/)</li>
-<li>[çŸ¥ä¹](http://www.zhihu.com/people/metaldudu)</li>
-<li>å¾®ä¿¡å…¬ä¼—å·ï¼šè€æœè¿˜åœ¨</li>
+<li>[¶¹°ê](http://www.douban.com/people/metaldudu/)</li>
+<li>[Öªºõ](http://www.zhihu.com/people/metaldudu)</li>
+<li>Î¢ĞÅ¹«ÖÚºÅ£ºÀÏ¶Å»¹ÔÚ</li>
 <li>MAIL:metaldudu@gmail.com</li>
 </ul>
