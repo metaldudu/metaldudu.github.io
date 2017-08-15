@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
+permalink:         /:categories/:title.html
 
 # Setup
 title:            老杜网志
@@ -14,7 +14,7 @@ baseurl:          '/'
 
 author:
   name:           'metaldudu'
-  url:            https://mrdu.me
+  url:            http://mrdu.me
 
 paginate:         5
 
