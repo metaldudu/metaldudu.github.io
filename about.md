@@ -1,6 +1,7 @@
----
+﻿---
+layout: page
 title: About
-permalink: /about/
+permalink: /about
 ---
 
 ![LOGO](/image/logo.jpg)

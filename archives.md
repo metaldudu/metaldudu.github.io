@@ -1,6 +1,6 @@
 ---
 title: Archives
-permalink: /archives/
+permalink: /archives
 layout: page
 ---
 
