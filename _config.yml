@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      pygments
 
 # Permalinks
-permalink:         /:categories/:title.html
+permalink:        none
 
 # Setup
 title:            老杜网志
