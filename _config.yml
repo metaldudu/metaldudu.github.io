@@ -1,25 +1,26 @@
 # Dependencies
 markdown:         kramdown
-pygments:         true
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
+relative_permalinks: true
 
 # Setup
 title:            老杜网志
 tagline:          '小步徐行 终有所成'
 description:      ''
 url:              http://mrdu.me/
-baseurl:          ''
+baseurl:          /
 
 author:
-  name:           '老杜还在'
-  url:            ''
+  name:           'metaldudu'
+  url:            https://mrdu.me
 
-paginate:         4
+paginate:         5
 
 # Custom vars
-version:          1.0.0
+version:          2.1.0
 
 github:
   repo:           https://github.com/metaldudu
