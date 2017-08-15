@@ -4,16 +4,20 @@ title: About
 permalink: /about
 ---
 
-<img src="/image/logo.jpg" />
+![LOGO](/image/logo.jpg)
 
-<h2>������</h2>
+### 关于我
 
-<p>�϶Ż��ڣ�Metaldudu��</p>
+老杜还在，Metaldudu。关注：
 
+* 极简生活
+* 学习成长
+* 跑步
+* 阅读
 
-<ul>
-<li>[����](http://www.douban.com/people/metaldudu/)</li>
-<li>[֪��](http://www.zhihu.com/people/metaldudu)</li>
-<li>΢�Ź��ںţ��϶Ż���</li>
-<li>MAIL:metaldudu@gmail.com</li>
-</ul>
+### 链接
+
+ * [豆瓣](http://www.douban.com/people/metaldudu/)
+ * [知乎](http://www.zhihu.com/people/metaldudu)
+ * 微信公众号：老杜还在
+ * 邮箱：metaldudu@gmail.com

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Posts By Tags
+title: Tags
 permalink: /tags
 ---
 
