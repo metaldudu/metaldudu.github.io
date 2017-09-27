@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "个人信息安全思考"
 description: ""
