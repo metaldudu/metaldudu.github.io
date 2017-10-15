@@ -16,7 +16,9 @@ permalink: /about
 - 读写卡片： [mrdu.me/cards](http://mrdu.me/cards)
 - 微信表情包：
 
-![像素大叔脸](/image/sticker1.jpg)  ![像素小丁](/image/sticker2.jpg) 
+![像素大叔脸](/image/moji1.jpg) 
+![像素小丁](/image/moji2.jpg) 
+![像素熊阿波](/image/moji3.jpg) 
 
 ### 链接
 
