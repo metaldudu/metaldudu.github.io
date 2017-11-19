@@ -63,7 +63,7 @@ tags: []
 如果前面的文件结构和命名已经形成自己的一套模式，那么定位文件会很容易。
 
 - 首先遇到需求要先想到，这个文件可能在哪儿，如果遵循自己的模式保存，那应该很容易找到。
-- Windows下推荐： [Everything](http://www.voidtools.com/)  和 [Listary ](http://www.listary)，快速搜索文件名，前面命名系统约规范这里的效率越高。Windows内置的搜索也够用。
+- Windows下推荐： [Everything](http://www.voidtools.com/)  和 [Listary ](http://www.listary.com/)，快速搜索文件名，前面命名系统约规范这里的效率越高。Windows内置的搜索也够用。
 - 类似 TotalCommander 、 QDir 、Clover 之类的资源管理器增强工具，可以提高效率但也产生依赖，可以一试。
 - 类似 Launchy 之类的快速启动工具，可以一试，我用过很多年的 hoekey。
 - 给常用目录创建快捷方式，在桌面或者任务栏上，或者绑定到你的快捷启动工具上。
