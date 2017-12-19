@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "如何实现一年读100本书"
-category:read 
+category: read 
 tags: []
 ---
 
