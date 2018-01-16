@@ -1,9 +1,9 @@
 # Dependencies
 markdown:         kramdown
-pygments:         true
+highlighter:      rouge
 
 # Permalinks
-permalink:        pretty
+permalink:        none
 
 # Setup
 title:            老杜网志

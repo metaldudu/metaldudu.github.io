@@ -8,18 +8,15 @@ permalink: /about
 
 ### 关于我
 
-老杜还在，Metaldudu。关注： 极简生活 / 学习成长 / 跑步 / 读写 / 像素画
+老杜还在，Metaldudu。
+
+关注： 极简生活 / 学习成长 / 跑步 / 读写 / 像素画 / 独立游戏
 
 ### 读写
 
-维护的blog有两个：
-
 - blog：[mrdu.me](http://mrdu.me/)
 - 读写卡片： [mrdu.me/cards](http://mrdu.me/cards)
-
-公众号：老杜还在
-
-(todo: 二维码)
+- 公众号：老杜还在
 
 ### 像素画
 
@@ -27,6 +24,8 @@ permalink: /about
 
 ### 链接
 
- * [豆瓣](http://www.douban.com/people/metaldudu/)
- * [知乎](http://www.zhihu.com/people/metaldudu)
- * 邮箱：metaldudu@gmail.com
+- [豆瓣](https://www.douban.com/people/metaldudu/)
+- [知乎](https://www.zhihu.com/people/metaldudu)
+- [Twitter](https://twitter.com/metaldudu)
+- [Itch.io](https://metaldudu.itch.io/)
+- 邮箱：metaldudu[AT]gmail.com
