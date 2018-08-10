@@ -16,7 +16,7 @@ permalink: /about
 
 - blog：[mrdu.me](https://mrdu.me/)
 - 读写卡片： [mrdu.me/cards](https://mrdu.me/cards)
-- 文章手机： [mrdu.me/docs](https://mrdu.me/docs)
+- 文章收集： [mrdu.me/docs](https://mrdu.me/docs)
 - 公众号：老杜还在
 
 ### 像素画
