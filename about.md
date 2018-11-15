@@ -33,6 +33,4 @@ permalink: /about
 
 ### books
 
-a calibre-web service: [http://121.29.111.253:8888/](http://121.29.111.253:8888/)
-
-user/passwd : 123 | update : 20181115
+[calibre-web service](http://121.29.111.253:8888/) | user/pw:123 | update:20181115
