@@ -30,7 +30,3 @@ permalink: /about
 - [Twitter](https://twitter.com/metaldudu)
 - [Itch.io](https://metaldudu.itch.io/)
 - 邮箱：metaldudu[AT]gmail.com
-
-### books
-
-[calibre-web service](http://121.29.111.253:8888/) | user/pw:123 | update:20181115
