@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "孩子们的读书会"
-category: 
+category: read
 tags: []
 ---
 

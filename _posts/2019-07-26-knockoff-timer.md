@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "假冒的德国计时器"
-category: 
+category: life
 tags: []
 ---
 

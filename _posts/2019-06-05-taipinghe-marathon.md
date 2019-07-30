@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "太平河马拉松"
-category: 
+category: running
 tags: []
 ---
 
