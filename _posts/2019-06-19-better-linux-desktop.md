@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "更好的linux桌面环境"
-category: 
+category: tech
 tags: []
 ---
 

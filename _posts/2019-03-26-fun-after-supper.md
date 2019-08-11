@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "小记晚间活动"
-category: 
+category: life
 tags: []
 ---
 
