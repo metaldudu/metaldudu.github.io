@@ -9,12 +9,12 @@ permalink:        none
 title:            老杜网志
 tagline:          '小步徐行 终有所成'
 description:      ''
-url:              https://mrdu.me/
+url:              https://metaldudu.github.io/
 baseurl:          ''
 
 author:
   name:           'metaldudu'
-  url:            https://mrdu.me
+  url:            https://metaldudu.github.io/
 
 paginate:         5
 
