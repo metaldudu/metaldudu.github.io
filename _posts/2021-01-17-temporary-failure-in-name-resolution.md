@@ -21,4 +21,4 @@ tags: [tech]
 参考：
 
 - https://wiki.archlinux.org/index.php/Domain_name_resolution
-- (Annie downloader)[https://github.com/iawia002/annie]
+-[Annie downloader](https://github.com/iawia002/annie)
