@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "kindlefire平板刷机"
-category: 
+category: tech
 tags: []
 ---
 
