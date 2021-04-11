@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "下载错误Temporary failure in name resolution"
-category: 
+category: tech
 tags: [tech]
 ---
 
