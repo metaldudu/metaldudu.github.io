@@ -12,9 +12,11 @@ permalink: /about
 
 中年大叔 / 马拉松跑者 / 伪geek / 主机游戏玩家 / 飞面神教教徒 / 简化生活 / 松鼠症
 
-### 读写
+### 内容
 
 - blog：[https://metaldudu.github.io/](https://metaldudu.github.io/)
+- wiki：[https://metaldudu.github.io/wiki](https://metaldudu.github.io/wiki)
+- 文摘：[https://metaldudu.github.io/txt](https://metaldudu.github.io/txt)
 - 公众号：老杜还在
 
 ### 像素画
