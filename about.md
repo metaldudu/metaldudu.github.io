@@ -17,6 +17,7 @@ permalink: /about
 - blog：[https://metaldudu.github.io/](https://metaldudu.github.io/)
 - wiki：[https://metaldudu.github.io/wiki](https://metaldudu.github.io/wiki)
 - 文摘：[https://metaldudu.github.io/txt](https://metaldudu.github.io/txt)
+- 俗语：[https://metaldudu.github.io/suyu](https://metaldudu.github.io/suyu)
 - 公众号：老杜还在
 
 ### 像素画
@@ -26,7 +27,6 @@ permalink: /about
 ### 链接
 
 - [豆瓣](https://www.douban.com/people/metaldudu/)
-- [知乎](https://www.zhihu.com/people/metaldudu)
 - [Twitter](https://twitter.com/metaldudu)
 - [Itch.io](https://metaldudu.itch.io/)
 - 邮箱：metaldudu[AT]gmail.com
