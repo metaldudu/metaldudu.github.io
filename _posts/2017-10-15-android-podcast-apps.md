@@ -2,7 +2,7 @@
 layout: post
 title: "安卓podcast应用推荐"
 description: ""
-category: geek
+category: tech
 tags: []
 ---
 

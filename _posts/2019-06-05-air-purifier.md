@@ -2,7 +2,7 @@
 layout: post
 title: "空气净化器"
 category: life
-tags: []
+tags: [好物]
 ---
 
 用过的净化器如下。

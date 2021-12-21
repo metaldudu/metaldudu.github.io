@@ -2,7 +2,7 @@
 layout: post
 title: "公正公开课"
 category: study
-tags: []
+tags: [MOOC]
 ---
 
 公正：该如何做是好，这个公开课是2009年的，今年已经十年，我终于今天看完了最后三节课。

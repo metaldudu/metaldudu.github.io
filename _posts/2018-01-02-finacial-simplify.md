@@ -2,7 +2,7 @@
 layout: post
 title: "简化银行卡"
 description: ""
-category: lifehack
+category: life
 tags: [简化]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "python共享文件"
 category: tech
-tags: [分享]
+tags: []
 ---
 
 前两天一个朋友给我传文件，用了ksweb，一个安卓系统的服务器应用，支持http、php、mysql。这个朋友搭建了WordPress，看上去很不错。我花了点时间，在旧手机上实验了这个应用，发现有它的优势，可以作为一个轻量级的服务。

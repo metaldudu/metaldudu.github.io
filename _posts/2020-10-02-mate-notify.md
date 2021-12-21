@@ -2,7 +2,7 @@
 layout: post
 title: "mate通知"
 category: tech
-tags: []
+tags: [linux]
 ---
 
 archlinux，初始安装mate桌面后，使用的是默认的 MATE Notification Daemon 。

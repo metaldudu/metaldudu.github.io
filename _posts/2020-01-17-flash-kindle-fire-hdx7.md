@@ -2,7 +2,7 @@
 layout: post
 title: "kindlefire平板刷机"
 category: tech
-tags: []
+tags: [手机]
 ---
 
 偶然看到淘宝有卖刷好安卓7的kindlefire hdx7 三代平板，手上这个很久没打开了，试了试原有系统装不上b站的app，于是想刷一下，折腾的简单记录如下。

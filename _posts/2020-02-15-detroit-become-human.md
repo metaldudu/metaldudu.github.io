@@ -2,7 +2,7 @@
 layout: post
 title: "未来会有仿生人吗"
 category: game
-tags: []
+tags: [游戏]
 ---
 
 

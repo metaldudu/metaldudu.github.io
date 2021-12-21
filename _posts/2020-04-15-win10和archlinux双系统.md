@@ -2,7 +2,7 @@
 layout: post
 title: "win10和archlinux双系统"
 category: tech
-tags: []
+tags: [linux]
 ---
 
 今天收到荣耀MagicBook，机器的版本是“Ryzen 5 3500U 16GB 512GB（冰河银）MagicBook 2019”，14寸屏幕，包含win10和office家庭版联网会自动激活，也包含华为定制的软件，包括和手机传输的 HONOR Magic-link，这些虽好对我用处不大。照例是安装 Arch linux，下面是一些记录。

@@ -2,8 +2,8 @@
 layout: post
 title: "《动物庄园》"
 description: ""
-category: readingnotes
-tags: [文学,奥威尔]
+category: read
+tags: [阅读]
 ---
 
 

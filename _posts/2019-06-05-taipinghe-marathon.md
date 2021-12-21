@@ -2,7 +2,7 @@
 layout: post
 title: "太平河马拉松"
 category: running
-tags: []
+tags: [跑步]
 ---
 
 去年写的一份马拉松赛事公告：

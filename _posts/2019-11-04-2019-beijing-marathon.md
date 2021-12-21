@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "2019北京马拉松"
-category: life
-tags: []
+category: running
+tags: [跑步]
 ---
 
 2019年下半年报了几个马拉松，西安、上海、广州都没中签，中签率最低的北京中了。既然中了就要去跑，记录一下。
