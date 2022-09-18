@@ -3,7 +3,7 @@ layout: post
 title: "有关拖拉的十件事"
 description: ""
 category: translation
-tags: [个人提升]
+tags: [个人管理]
 ---
 
 （本文译自 Procrastination: Ten Things To Know 。拖拉是阻碍个人成功的绊脚石，却时常出现在我们左右。作者是两位对拖拉 (Procrastination) 进行研究的心理学教授，希望大家能从中有所收获。）

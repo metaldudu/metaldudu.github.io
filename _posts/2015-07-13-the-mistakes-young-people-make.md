@@ -3,7 +3,7 @@ layout: post
 title: "那些年轻人最常犯的错"
 description: ""
 category: lifehack
-tags: [个人提升,Quora]
+tags: [个人管理,Quora]
 ---
 
 来自Quora的[一篇回答](http://www.quora.com/What-are-the-most-common-life-mistakes-young-people-make/answer/Cyndi-Perlman-Fink)，下面是译文。

@@ -3,7 +3,7 @@ layout: post
 title: "8个治疗网络多动症的技巧"
 description: ""
 category: translation
-tags: [个人提升]
+tags: [个人管理]
 ---
 
 （本文翻译自 Zen Habit 的文章 8 Practical Tips to Cure Your Internet ADD，作者是 Alex Brie ，译者 MetalDudu@Blog）

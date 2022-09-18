@@ -3,7 +3,7 @@ layout: post
 title: "10步推动你的创造力"
 description: ""
 category: translation
-tags: [个人提升]
+tags: [个人管理]
 ---
 
 （本文翻译自 JPB.com 的文章 10 Steps for Boosting Creativity ，作者是 Jeffrey Baumgartner。中文翻译 MetalDudu@Blog）

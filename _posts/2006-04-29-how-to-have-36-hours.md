@@ -3,7 +3,7 @@ layout: post
 title: "怎么让一天有36个小时（译）"
 description: ""
 category: translation
-tags: [个人提升]
+tags: [个人管理]
 ---
 
 >作者：Jon Bischke
