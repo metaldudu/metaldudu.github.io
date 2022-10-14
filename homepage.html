@@ -38,7 +38,7 @@
 
   <tr>
     <td>📜 </td>
-    <td><a href='https://www.hi-pda.com/forum/forumdisplay.php?fid=2'>hiPDA</a> | <a href='https://www.v2ex.com/'>V2EX</a>  | <a href='https://bbs.saraba1st.com/2b/forum-75-1.html'>S1</a> <a href='https://bbs.archlinuxcn.org/index.php'>ArchlinuxCN</a>
+    <td><a href='https://www.4d4y.com/forum/forumdisplay.php?fid=2'>hiPDA</a> | <a href='https://www.v2ex.com/'>V2EX</a>  | <a href='https://bbs.saraba1st.com/2b/forum-75-1.html'>S1</a> <a href='https://bbs.archlinuxcn.org/index.php'>ArchlinuxCN</a>
     </td>
   </tr>
 
@@ -90,9 +90,8 @@
 </table>
 
 
-
+<!-- 时钟 -->
 <span style="font-size:120px; color:#ddd">  <span id="span"></span></span>
-
 <script type="text/javascript" charset="utf-8">
 var span = document.getElementById('span');
 function time() {
@@ -105,9 +104,28 @@ function time() {
 }
 setInterval(time, 1000);
 </script>
-
 <br/>
+
+<!-- 天气 -->
 <iframe width="300" height="30" frameborder="0" scrolling="no" hspace="0" src="https://i.tianqi.com/?c=code&amp;a=getcode&amp;id=34&amp;py=shijiazhuang&amp;icon=1"></iframe>
+<br/>
+<!-- 空气质量 -->
+<script  type="text/javascript"  charset="utf-8">  
+  (function(w,d,t,f){  w[f]=w[f]||function(c,k,n){s=w[f],k=s['k']=(s['k']||(k?('&k='+k):''));s['c']=  
+  c=(c  instanceof  Array)?c:[c];s['n']=n=n||0;L=d.createElement(t),e=d.getElementsByTagName(t)[0];  
+  L.async=1;L.src='https://www.aqicn.org/feed/'+(c[n].city)+'/'+(c[n].lang||'')+'/feed.v1.js?n='+n+k;  
+  e.parentNode.insertBefore(L,e);  };  })(  window,document,'script','_aqiFeed'  );    
+</script>
+<script  type="text/javascript"  charset="utf-8">  
+_aqiFeed({
+display:"%aqi 更新于  %date</small>",   
+container:"city-aqi-container",  
+city:"shijiazhuang",  
+lang:"cn"  
+}); 
+</script>
+<span id="city-aqi-container"></span>  
+
 
 </div>
 </body>
