@@ -1,0 +1,28 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: me
+    entries:
+      - title: "pages: <a href='/about'>about</a> <a href='/tags'>tags</a> <a href='archive.html'>archive</a>"
+      - title: "<a href='mailto:metaldudu@gmail.com'>mail</a> <a href='feed.xml'>rss</a>"
+ 
+  - title: recent posts
+    post_list:
+      limit: 5
+      show_more: false
+      show_more_text: archive...
+      show_more_url: archive.html
+
+  - title: books I like
+    post_list:
+      limit: 5
+      category: books
+      show_more: true
+      show_more_text: archive...
+      show_more_url: books.html
+
+  - title: other
+    entries:
+      - title: "维基 <a href='https://metaldudu.github.io/wiki'>wiki</a>"
+      - title: "文摘 <a href='https://metaldudu.github.io/txt'>txt</a>"

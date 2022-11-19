@@ -2,10 +2,11 @@
 layout: post
 title: "《动物庄园》"
 description: ""
-category: read
+category: books
 tags: [阅读]
 ---
 
+![动物庄园](https://img2.doubanio.com/view/subject/s/public/s1817027.jpg)
 
 时隔十二年，我又读了一遍《动物庄园》。
 

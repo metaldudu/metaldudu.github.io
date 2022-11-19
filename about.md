@@ -4,13 +4,10 @@ title: About
 permalink: /about
 ---
 
-![LOGO](/image/logo.jpg)
+![LOGO](logo.png)
 
-### 关于我
 
-老杜还在 Metaldudu
-
-中年大叔 / 马拉松跑者 / 伪geek / 主机游戏玩家 / 飞面神教教徒 / 简化生活 / 松鼠症
+老杜还在（MetalDudu）。中年大叔 / 马拉松跑者 / 伪geek / 主机游戏玩家 / 飞面神教教徒 / 简化生活 / 松鼠症
 
 ### 内容
 
@@ -24,5 +21,6 @@ permalink: /about
 ### 链接
 
 - [豆瓣](https://www.douban.com/people/metaldudu/)
+- [github](https://github.com/metaldudu/)
 - [Itch.io](https://metaldudu.itch.io/)
 - 邮箱：metaldudu[AT]gmail.com
