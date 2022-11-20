@@ -6,7 +6,9 @@ category: books
 tags: [阅读]
 ---
 
-![动物庄园](https://img2.doubanio.com/view/subject/s/public/s1817027.jpg)
+<a href="https://book.douban.com/subject/1018136/"><img src="https://img1.doubanio.com/view/subject/s/public/s1817027.jpg" /></a>
+
+---
 
 时隔十二年，我又读了一遍《动物庄园》。
 
