@@ -1,0 +1,133 @@
+<!doctype html>
+<html style='font-size:18px !important'>
+<head>
+<meta charset='UTF-8'>
+<style>
+  a {  color: #4078c0;  text-decoration: none;}
+  a:hover,a:active {  text-decoration: underline;}
+  table th,table td {  padding: 5px 13px;  border: 1px solid #ddd;}
+  table tr {  background-color: #fff;  border-top: 1px solid #ccc;}
+  table tr:nth-child(2n) {  background-color: #f8f8f8;}
+</style>
+</style><title>homepage</title>
+</head>
+<body>
+  <div align="center">
+
+<table>
+  <tr>
+    <th> </th>
+    <th>Make a 😃</th>
+  </tr>
+  <tr>
+    <td>📬</td>
+    <td><a href='http://mail.google.com/'>GMAIL</a> <a href='http://mail.qq.com/'>QQ邮箱</a>   <a href='https://notepad.1976f.com/laodu'>notepad</a> <a href='https://workflowy.com'>Workflowy</a> | <a href="https://feedly.com/">feedly</a></td>
+  </tr>
+
+  <tr>
+    <td>📗</td>
+    <td><a href='http://www.douban.com/'>豆瓣</a> <a href='https://book.douban.com/people/metaldudu/'>读书主页</a> <a href='https://www.douban.com/people/metaldudu/'>MetalDudu</a> <a href='https://metaldudu.github.io/'>老杜网志</a> <a href='https://metaldudu.github.io/wiki/'>WIKI</a></td>
+  </tr>
+
+    
+  <tr>
+    <td>📻</td>
+    <td>  <a href='https://www.thepaper.cn/'>澎湃</a> <a href="https://www.huxiu.com/">虎嗅</a> <a href='https://www.caixin.com/'>财新</a>  <a href='https://36kr.com/'>36氪</a> <a href='https://cn.nytimes.com/'>纽约时报中文版</a> <a href='http://www.dapenti.com/blog/blog.asp?name=xilei&amp;subjectid=70'>喷嚏图卦</a> <a href="https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5">维基百科中文</a> <a href="https://www.wired.com/">WIRED</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>📜 </td>
+    <td><a href='https://www.4d4y.com/forum/forumdisplay.php?fid=2'>hiPDA</a> | <a href='https://www.v2ex.com/'>V2EX</a>  | <a href='https://bbs.saraba1st.com/2b/forum-75-1.html'>S1</a> <a href='https://bbs.archlinuxcn.org/index.php'>ArchlinuxCN</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>📀 </td>
+    <td>  <a href='https://www.youtube.com'>YouTube</a> <a href='https://www.bilibili.com/'>BiliBili</a> <a href='http://music.163.com/'>网易云音乐</a> 
+    </td>
+  </tr>
+
+
+  <tr>
+    <td>🙈 </td>
+    <td><a href='https://unsplash.com/'>Unsplash</a> <a href='http://www.pinterest.com/'>Pintrest</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🕹️</td>
+    <td><a href='https://www.trueachievements.com/xbox-game-pass/games?order=GameRating'>TA</a> <a href='https://psnine.com/gene'>psnine</a> <a href='https://www.epicgames.com/store/zh-CN/'>Epic</a>  <a href='https://store.playstation.com/zh-hant-hk/home/games'>PS港服</a> <a href='http://store.steampowered.com/'>Steam</a>  <a href='https://www.indienova.com/'>IndieNova</a>
+    </td>
+  </tr>
+
+
+  <tr>
+    <td>📖</td>
+    <td>   <a href='https://zh.1lib.tw'>Zlib</a> <a href='https://ebook2.lorefree.com/'>lorefree</a> <a href='https://mox.moe/'>mox.moe</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>⚡️</td>
+    <td><a href='https://kp.m-team.cc/index.php'>MT</a> <a href="https://et8.org/index.php">TCCF</a> 
+    </td>
+  </tr>
+
+
+  <tr>
+    <td>⬇️</td>
+    <td><a href='https://rarbgprx.org/'>rarbg</a> <a href='http://tool.liumingye.cn/music/?page=searchPage'>MyFreeMp3</a> 
+    </td>
+  </tr>
+
+  <tr>
+    <td>🎱</td>
+    <td><a href='http://wannianli.tianqi.com/'>天气万年历</a>  <a href='https://air-quality.com/place//414d595a'>石家庄空气质量</a> <a href='http://www.xiachufang.com/'>下厨房</a> <a href='https://asoftmurmur.com/'>白噪音</a> <a href='https://mirrors.tuna.tsinghua.edu.cn/'>清华开源镜像</a>   <a href='https://jd.com'>京东</a> <a href='http://www.kongfz.cn/'>孔网</a> <a href='http://www.bookschina.com/'>中图</a>  
+    </td>
+  </tr>
+
+</table>
+
+
+<!-- 时钟 -->
+<span style="font-size:120px; color:#ddd">  <span id="span"></span></span>
+<script type="text/javascript" charset="utf-8">
+var span = document.getElementById('span');
+function time() {
+  var d = new Date();
+  var s = d.getSeconds();
+  var m = d.getMinutes();
+  var h = d.getHours();
+  span.textContent = 
+    ("0" + h).substr(-2) + ":" + ("0" + m).substr(-2) + ":" + ("0" + s).substr(-2);
+}
+setInterval(time, 1000);
+</script>
+<br/>
+
+<!-- 天气 -->
+<iframe width="220" height="50" frameborder="0" scrolling="no" hspace="0" src="https://i.tianqi.com/?c=code&a=getcode&id=87&py=shijiazhuang&icon=1"></iframe>
+<br/><br/>
+
+<!-- 空气质量 -->
+<script  type="text/javascript"  charset="utf-8">  
+  (function(w,d,t,f){  w[f]=w[f]||function(c,k,n){s=w[f],k=s['k']=(s['k']||(k?('&k='+k):''));s['c']=  
+  c=(c  instanceof  Array)?c:[c];s['n']=n=n||0;L=d.createElement(t),e=d.getElementsByTagName(t)[0];  
+  L.async=1;L.src='https://www.aqicn.org/feed/'+(c[n].city)+'/'+(c[n].lang||'')+'/feed.v1.js?n='+n+k;  
+  e.parentNode.insertBefore(L,e);  };  })(  window,document,'script','_aqiFeed'  );    
+</script>
+<script  type="text/javascript"  charset="utf-8">  
+_aqiFeed({
+display:"%aqi 更新于 %date</small>",   
+container:"city-aqi-container",  
+city:"shijiazhuang",  
+lang:"cn"  
+}); 
+</script>
+<span id="city-aqi-container"></span>  
+
+
+</div>
+</body>
+</html>
