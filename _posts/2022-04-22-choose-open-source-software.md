@@ -2,7 +2,7 @@
 layout: post
 title: "选择开源软件"
 category: 
-tags: []
+tags: [software]
 ---
 
 前两年偶然看到 F-Droid 这个平台，集合了很多安卓平台的开源应用，有些稍显简陋，有些却是我日常依赖，比如：

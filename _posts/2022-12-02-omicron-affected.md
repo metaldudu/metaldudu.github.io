@@ -2,7 +2,7 @@
 layout: post
 title: "发烧记"
 category: life
-tags: []
+tags: [新冠]
 ---
 
 过去一周，我发烧了几天，自我诊断应该是感染了奥密克戎。

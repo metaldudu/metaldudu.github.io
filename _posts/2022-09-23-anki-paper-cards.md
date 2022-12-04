@@ -2,7 +2,7 @@
 layout: post
 title: "使用anki制作打印闪卡"
 category: tech
-tags: [软件, 英语学习]
+tags: [software, 英语学习]
 ---
 
 为了帮女儿背单词，我找到一份初中英语高频词列表，包含单词和释义，用电子表格乱序打印，效果不太好。后来把这个词库转换成[anki词库](https://github.com/metaldudu/anki-junior-school-hebei)，但又不想她多用手机，于是找到打印闪卡的方式。

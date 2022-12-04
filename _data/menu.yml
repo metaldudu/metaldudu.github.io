@@ -4,8 +4,8 @@
 entries:
   - title: me
     entries:
-      - title: "pages: <a href='/about'>about</a> <a href='/tags'>tags</a> <a href='archive.html'>archive</a>"
-      - title: "<a href='mailto:metaldudu@gmail.com'>mail</a> <a href='feed.xml'>rss</a>"
+      - title: "<a href='/about'>about</a> <a href='/use'>use</a>"
+      - title: "<a href='/tags'>tags</a> <a href='/archive'>archive</a> <a href='feed.xml'>rss</a> <a href='mailto:metaldudu@gmail.com'>mail</a>"
  
   - title: recent posts
     post_list:

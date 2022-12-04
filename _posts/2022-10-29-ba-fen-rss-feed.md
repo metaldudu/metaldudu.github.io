@@ -2,7 +2,7 @@
 layout: post
 title: "八分的RSS订阅"
 category: tech
-tags: [podcast]
+tags: [podcast, software]
 ---
 
 这几年常听的播客里，八分是一直听下来的，今年到了第四季，官方把 RSS 关闭转而在喜马拉雅独家播放。因为对移动端的垃圾应用不感兴趣，所以之前是用曲线救国的方式听：
