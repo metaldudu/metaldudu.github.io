@@ -3,7 +3,7 @@ layout: post
 title: "对抗无聊的时间碎屑"
 description: ""
 category: lifehack
-tags: [blog]
+tags: [log]
 ---
 
 
