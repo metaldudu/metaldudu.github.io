@@ -63,13 +63,21 @@ Calibre 在任务栏对应的图标是 `/usr/share/calibre/images/lt.png` ，256
 
 可能每次 Calibre 更新后，该文件会被覆盖。
 
+PS. 用 Uluancher 调用 Calibre 时，显示的图标是：
+
+`/usr/share/icons/hicolor/48x48/apps/calibre-gui.png`
+
 ## 修改 Fcitx5 图标
 
 rime 输入法对应图标：
 
 `/usr/share/icons/Papirus-Dark/22x22/actions/fcitx-rime.svg`
 
+keyboad-English 对应图标：
 
+`/usr/share/icons/Papirus-Dark/16x16/devices/keyboard-input.svg`
+
+Notification Plugin 里的输入法键盘图标，没有找到在哪儿。
 
 ## 预览图标
 
