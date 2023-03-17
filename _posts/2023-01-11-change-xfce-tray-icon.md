@@ -43,23 +43,31 @@ GoldenDict 的图标有些偏小，可以用同一目录下 `gitify-tray.svg` �
 
 `sudo gtk-update-icon-cache -f /usr/share/icons/*`
 
-## 替换 Audacious 图标
+## Audacious
 
 经过查找发现，对应 HiContracst 主题的任务栏图标文件是：
 
 `/usr/share/icons/hicolor/scalable/apps/aucadious.svg`
 
-对应 Papirus/Papirus-Dark 主题的图标是：
+对应 Papirus/Papirus-Dark 主题的替换命令
 
-`/usr/share/icons/Papirus/22x22/apps/audacious.svg`
+`sudo cp /usr/share/icons/Papirus/22x22/panel/audacious-panel.svg /usr/share/icons/Papirus/22x22/apps/audacious.svg` 
 
-可以替换成
+## flameshot
 
- `/usr/share/icons/Papirus/22x22/panel/audacious-panel.svg` 
+替换命令
 
-## 替换 Calibre 图标
+`sudo cp /usr/share/icons/Papirus/22x22/panel/flameshot-tray.svg /usr/share/icons/Papirus/22x22/apps/flameshot.svg`
 
-Calibre 在任务栏对应的图标是 `/usr/share/calibre/images/lt.png` ，256x256大小，替换一个就可以，比如用 Papirus 主题里的 `/usr/share/icons/Papirus/24x24/panel/calibre-tray.svg`
+## Calibre
+
+Calibre 在任务栏对应的图标是 `/usr/share/calibre/images/lt.png` ，256x256大小，替换一个就可以，比如用 Papirus 主题里的 `/usr/share/icons/Papirus/24x24/panel/calibre-tray.svg`  使用 inkscape 转换：
+
+`cd /usr/share/calibre/images/`
+
+`sudo cp /usr/share/icons/Papirus/24x24/panel/calibre-tray.svg ./`
+
+`inkscape -w 256 -h 256 calibre-tray.svg --export-filename lt.png`
 
 可能每次 Calibre 更新后，该文件会被覆盖。
 
@@ -73,11 +81,17 @@ rime 输入法对应图标：
 
 `/usr/share/icons/Papirus-Dark/22x22/actions/fcitx-rime.svg`
 
-keyboad-English 对应图标：
+菜单中 Keyboad-English (US) 对应图标：
 
-`/usr/share/icons/Papirus-Dark/16x16/devices/keyboard-input.svg`
+`/usr/share/icons/Papirus-Dark/16x16/devices/input-keyboard.svg`
 
-Notification Plugin 里的输入法键盘图标，没有找到在哪儿。
+Notification Plugin 里的 Keyboad-English (US) 图标，~~没有找到在哪儿~~ 因为从 16 放大到 22 ，所以图标发虚，暂时未找到解决方法。
+
+## show desktop 按钮
+
+对应 `/usr/share/icons/Papirus/16x16/apps/cs-desktop.svg` 替换命令：
+
+`sudo cp /usr/share/icons/Papirus/16x16/panel/disper-panel.svg /usr/share/icons/Papirus/16x16/apps/cs-desktop.svg`
 
 ## 预览图标
 
