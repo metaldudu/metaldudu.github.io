@@ -12,7 +12,7 @@ permalink: /about
 ### 内容
 
 - blog : [https://metaldudu.github.io/](https://metaldudu.github.io/)
-- 笔记仓库 : [https://metaldudu.github.io/wiki](https://metaldudu.github.io/wiki)
+- 笔记仓库 : [https://metaldudu.github.io/wiki](https://metaldudu.github.io/notes)
 - 俗语：[https://metaldudu.github.io/suyu](https://metaldudu.github.io/suyu)
 - 公众号：老杜还在
 - 微信表情：搜“杜大叔”就是我。

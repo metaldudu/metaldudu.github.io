@@ -44,3 +44,4 @@ Bartle 的分类包括：
 
 - [Bartle taxonomy of player types - Wikipedia](https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types)
 - [Lazzaro's types of fun - Practical Game Design [Book]](https://www.oreilly.com/library/view/practical-game-design/9781787121799/d1cf4f06-77a0-4f22-9afe-a740c13378bc.xhtml)
+- [Nicole Lazzaro - Games and the Four Keys to Fun: Using Emotions to Create Engaging Design - YouTube](https://www.youtube.com/watch?v=EEmNRRRqgNc)
