@@ -13,4 +13,6 @@ tags: [tech]
 
 用 [darkreader](https://github.com/darkreader/darkreader) 或 [Dark Mode](https://mybrowseraddon.com/dark-mode.html) 来获得暗色模式，减少视觉刺激。
 
-看视频时灵活使用全屏、网页全屏，获得更好的体验。另外如果看直播，可以[绕开浏览器获取地址](https://github.com/wbt5/real-url)，直接用 mpv 播放。
+firefox 会阻止网页自动播放视频。看视频时灵活使用全屏、网页全屏，获得更好的体验。另外如果看直播，可以[绕开浏览器获取地址](https://github.com/wbt5/real-url)，直接用 mpv 播放。
+
+firefox 支持阅读模式，快捷键是 ctrl+alt+r 。在手机上遇到悬浮提示安装app时，可以打开阅读模式，针对知乎很好用。
