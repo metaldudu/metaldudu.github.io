@@ -18,6 +18,7 @@ adb shell pm enable com.huawei.android.hwouc
 
 ### 其他可选关闭
 
+```
 adb shell pm disable-user com.huawei.himovie.local 视频播放器
 adb shell pm disable-user com.sohu.sohuvideo.emplayer HiMoviePlayerPlus
 adb shell pm disable-user com.huawei.music.local 音乐播放器
@@ -56,6 +57,7 @@ adb shell pm disable-user com.huawei.hwvoipservice 畅连服务
 adb shell pm disable-user com.huawei.email 邮箱
 adb shell pm disable-user com.huawei.onekeylock.hmservice 一键锁屏
 adb shell pm disable-user com.huawei.scanner 智慧视觉
+```
 
 ### 替代方案
 
