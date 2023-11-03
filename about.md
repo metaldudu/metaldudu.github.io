@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-![LOGO](logo.png)
+![LOGO](github.blog/logo.png)
 
 
 老杜还在（MetalDudu）。中年大叔 / 马拉松跑者 / 伪geek / 主机游戏玩家 / 飞面神教教徒 / 简化生活 / 松鼠症

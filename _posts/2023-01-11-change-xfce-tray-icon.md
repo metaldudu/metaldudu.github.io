@@ -89,10 +89,15 @@ Notification Plugin 里的 Keyboad-English (US) 图标，~~没有找到在哪儿
 
 ## show desktop 按钮
 
-对应 `/usr/share/icons/Papirus/16x16/apps/cs-desktop.svg` 替换命令：
+对应 `/usr/share/icons/Papirus/16x16/apps/cs-desktop.svg` 想要替换成灰色不显眼的图标
 
-`sudo cp /usr/share/icons/Papirus/16x16/panel/disper-panel.svg /usr/share/icons/Papirus/16x16/apps/cs-desktop.svg`
+当 xfce panel 设置为图标自动缩放时，图标大小以面板宽度为准（面板居左竖排时），如面板宽 16 会调用上面 16x16 目录里 16px 大小的图标。如果宽度在32-48之间，则调用 32px 大小的图标，选择对应大小的图标替换即可：
 
+```
+sudo cp /usr/share/icons/Papirus/48x48/apps/preferences-desktop-display.svg /usr/share/icons/Papirus/48x48/apps/cs-desktop.svg
+```
+
+如果 panel 设置图标固定大小，调整图标大小就会从以上几个文件夹选择。
 ## 预览图标
 
 右键点击面板 Applications Menu ，选择替换图标，可以预览系统主题的图标，支持查找。

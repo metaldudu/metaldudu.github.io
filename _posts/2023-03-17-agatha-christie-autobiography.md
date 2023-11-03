@@ -5,7 +5,7 @@ category: books
 tags: [传记]
 ---
 
-<a href="https://book.douban.com/subject/27024106/"><img src="https://img3.doubanio.com/view/subject/s/public/s29445910.jpg" /></a>
+<a href="https://book.douban.com/subject/27024106/"><img src="https://img2.doubanio.com/view/subject/s/public/s29445910.jpg" /></a>
 
 ---
 
