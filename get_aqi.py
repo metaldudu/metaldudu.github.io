@@ -11,7 +11,31 @@ xml_content = response.content
 root = ET.fromstring(xml_content)
 
 # 初始化HTML内容
-html_content = "<html><head><title>空气质量</title></head><body>"
+html_content = """
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>空气质量</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 10px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 24px;
+        }
+        p {
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+"""
 
 # 查找符合条件的部分
 for pointer in root.findall(".//Pointer"):
