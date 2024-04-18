@@ -2,3 +2,4 @@ html2text==2020.1.16
 html5-parser==0.4.11
 html5lib==1.1
 requests==2.31.0
+beautifulsoup4==4.12.3
