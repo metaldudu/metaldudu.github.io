@@ -22,4 +22,4 @@ jobs:
       run: pip install -r requirements.txt
 
     - name: Get AQI
-      run: python ./get_aqi_from_xml.py
+      run: python ./get_aqi.py
