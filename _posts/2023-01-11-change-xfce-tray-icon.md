@@ -37,7 +37,7 @@ tags: [linux]
 
  `/usr/share/icons/Papirus/22x22/panel/goldendict-tary.svg`
 
-GoldenDict 的图标有些偏小，可以用同一目录下 `gitify-tray.svg` 来替换，效果好一些。
+GoldenDict 的图标有些偏小，可以用同一目录下 `fcitx-mozc-dictionary.svg` 来替换，效果好一些。
 
 使用命令重建图标缓存：
 
@@ -53,6 +53,9 @@ GoldenDict 的图标有些偏小，可以用同一目录下 `gitify-tray.svg` �
 
 `sudo cp /usr/share/icons/Papirus/22x22/panel/audacious-panel.svg /usr/share/icons/Papirus/22x22/apps/audacious.svg` 
 
+## wechat-universal
+
+??
 ## flameshot
 
 替换命令
