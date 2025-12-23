@@ -55,7 +55,10 @@ GoldenDict 的图标有些偏小，可以用同一目录下 `fcitx-mozc-dictiona
 
 ## wechat-universal
 
-??
+程序对应图标
+
+`/usr/share/icons/Papirus/22x22/status/wechat-universal.svg`
+
 ## flameshot
 
 替换命令
